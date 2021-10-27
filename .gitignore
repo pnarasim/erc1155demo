@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+notes.txt
+build/
+contracts/*old
+ethereum/*old
+pages/*old
+.next/
+
